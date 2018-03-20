@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511005442 source:d:\jingle bells\jingle bells\main.cpp
+	<iostream>
+	<windows.h>
+
